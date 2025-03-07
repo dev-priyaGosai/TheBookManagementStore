@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn-bg{
+    background-color: #227B94;
+}
+
+.notes-bg{
+    background-color: #FABC3F;
+}
+.login-bg{
+    background-color: #016daba1;
+}
+.navbar-bg{
+    background-color: #0661b3;
+}
+

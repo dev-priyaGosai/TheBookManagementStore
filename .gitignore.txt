@@ -1,0 +1,16 @@
+node_modules/
+
+# Build output
+build/
+dist/
+.next/
+
+# Docker files
+.docker/
+
+# Logs
+logs/
+*.log
+
+# Environment files
+.env
