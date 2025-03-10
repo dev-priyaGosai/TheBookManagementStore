@@ -5,8 +5,6 @@ build/
 dist/
 .next/
 
-# Docker files
-.docker/
 
 # Logs
 logs/
